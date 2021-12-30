@@ -13,6 +13,6 @@
 ## Technologies
 #### For the bulk of the project I use Python 3 within a Jupyter Notebook. Some of the data was extracted from the TDOT Transportation Management System found here at https://tdot.public.ms2soft.com/tcds/tsearch.asp?loc=Tdot&mod=TCDS as CSV files and imported into Jupyter for data cleaning.. The other portion of the data was pulled from the same site via web-scraping.
 
-#### For the organization of the cleaned data, Power  BI was used to create the dashboard tool.
+#### For the organization of the cleaned data, Power  BI was used to create a dashboard tool.
 
 ## Problems & Hurdles
