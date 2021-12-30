@@ -8,7 +8,7 @@
 ### The structure of this transit system functions best, as most transit systems do for its ability to identify areas of heavy traffic and alleviate them by putting introducing bus/train routes in those areas.
 
 
-### My project therefore attempts to provide a dashboard tool that examines Greater Middle TN traffic commuter pattern data as collected by the Tennessee Department of Transportation (TDOT). With this tool, I hope to offer a helpful step in the direction of progress for the Middle TN transit infrastructure as it continues to grow.
+### My project therefore attempts to provide a dashboard tool that examines Greater Middle TN traffic commuter pattern data as collected by the Tennessee Department of Transportation (TDOT). With this tool, I hope to offer a helpful step in the direction of progress for Middle TN transit infrastructure as it continues to grow.
 
 ## Technologies
 ### For the bulk of the project I use Python 3 within a Jupyter Notebook. Some of the data was extracted from the TDOT Transportation Management System found here at https://tdot.public.ms2soft.com/tcds/tsearch.asp?loc=Tdot&mod=TCDS as CSV files and imported into Jupyter for data cleaning.. The other portion of the data was pulled from the same site via web-scraping.
