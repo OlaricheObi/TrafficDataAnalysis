@@ -6,8 +6,8 @@
 
 * [Problems & Hurdles](#problems--hurdles)
   
-  * [Getting the Data](Getting-the-Data)
-  * [Data Normalization Trouble](Normalizing-The-Data)
+  * [Getting the Data](getting-the-Data)
+  * [Data Normalization Trouble](normalizing-the-data)
 ## Motivation
 #### Growing up a Nashville/Middle TN native I have always thought it normal that everyone have a car as their main means of transportation. Assuming this southern lifestyle as the basis, I had never questioned the multi-vehicle households nor the lack of a cohesive public transit system for our Greater Nashville community. As I have matured so has Nashville and its surrounding cities. Now more than ever, more people are flooding into the Middle TN community, with Nashville serving as its hub. As I live in Murfreesboro, a large suburb, nearing 200,000 people; I have found the commute has become a most unenjoyable experience taking anywhere between 35 minutes as expected to over an hour, depending on the traffic.
 
