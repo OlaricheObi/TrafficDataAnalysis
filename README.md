@@ -1,9 +1,7 @@
 # Tennesse Department of Transportation (TDOT) Traffic Data Analysis
 ## Table of Contents
 * [Motivation](#Motivation)
-
 * [Technologies](#Technologies)
-
 * [Problems & Hurdles](#problems--hurdles)
   
   * [Getting the Data](#getting-the-Data)
