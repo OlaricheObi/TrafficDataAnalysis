@@ -4,7 +4,7 @@
 
 * [Technologies](#Technologies)
 
-* [Problems & Hurdles](#Problems-&-Hurdles)
+* [Problems & Hurdles](#problems--hurdles)
   
   * [Getting the Data](Getting-the-Data)
   * [Data Normalization Trouble](Normalizing-The-Data)
