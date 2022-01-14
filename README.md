@@ -34,3 +34,4 @@
 #### Although I collected data on the change in AADT over time and was able to plot this on a line graph, I was unable to get Power BI's ArcGIS map feature to smoothly run to show a time lapse of the growing volume of traffic over time.
 
 ## Link to Dashboard
+#### https://app.powerbi.com/groups/me/reports/7b2f603e-5cad-4b84-ac2d-c8382e6a311e/ReportSectiona0519b7ce424d578cf59
